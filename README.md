@@ -36,4 +36,6 @@ Technologies used in the project:
 
 <h2>💖Like my work?</h2>
 
-If you want to clone this repository or make any changes feel free to do this. Follow My Github Account Don't forget to connect on LinkedIn www.linkedin.com/in/amaan-ashraf-52074a177/
+If you want to clone this repository or make any changes feel free to do this.
+Follow My Github Account.
+Don't forget to connect on LinkedIn www.linkedin.com/in/amaan-ashraf-52074a177/
